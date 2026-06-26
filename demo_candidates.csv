@@ -1,5 +1,0 @@
-Name,Email,Phone,Skills,Years Experience,Score,Category,Matched Skills,Missing Skills
-Aisha Mehta,aisha.mehta@example.com,+91 98765 43210,"Python, FastAPI, SQL, Docker, Git, Machine Learning",4.5,91.0,Excellent Match,"Python, FastAPI, Docker, SQL, Git, Machine Learning",React
-Rahul Nair,rahul.nair@example.com,+91 99887 77665,"Python, Django, SQL, Git, AWS",3.0,74.0,Good Match,"Python, SQL, Git","FastAPI, Docker, React, Machine Learning"
-Sarah Thompson,sarah.thompson@example.com,+1 415 555 0188,"React, JavaScript, Git, REST API, SQL",5.0,58.0,Average Match,"React, SQL, Git","Python, FastAPI, Docker, Machine Learning"
-John Carter,john.carter@example.com,+1 212 555 0145,"Excel, Recruiting, LinkedIn, Communication",7.0,31.0,Not Suitable,,"Python, FastAPI, Docker, SQL, Git, Machine Learning"
