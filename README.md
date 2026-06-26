@@ -22,7 +22,7 @@ Recruiters can upload resumes, compare them with a job description, rank candida
 
 ## Screenshots
 
-Add screenshots here after running the project:
+screenshots are added in the Output folder after running the project:
 
 - Login page
 - Dashboard
